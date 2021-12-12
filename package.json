@@ -1,0 +1,18 @@
+{
+  "name": "rest-api-boilerplate-code",
+  "version": "1.0.1",
+  "description": "boiler plate code for a rest api.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Unstoppable9160",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "generate-api-key": "^1.0.0",
+    "joi": "^13.1.0",
+    "nodemon": "^2.0.15"
+  }
+}
