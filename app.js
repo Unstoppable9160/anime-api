@@ -35,10 +35,6 @@ app.post("/anime/add", (req, res) => {
     res.send(anime);
 });
 
-// Routes - put
-app.put("/anime/:id", (req, res) => {
-
-});
 
 // Routes - get
 app.get("/anime/", (req, res) => {
